@@ -23,6 +23,11 @@ Bienvenido a mi GitHub. Soy un apasionado sobre la ciencia de datos orientada co
 
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+# :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## Contactame
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://davidalejandrocmbs@gmail.com)
