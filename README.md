@@ -25,14 +25,14 @@ Bienvenido a mi GitHub. Soy un apasionado sobre la ciencia de datos orientada co
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AlejandroSegura24/miTercerRepo](https://github.com/AlejandroSegura24/miTercerRepo)<br>
-2. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/AlejandroSegura24](https://github.com/AlejandroSegura24/AlejandroSegura24)<br>
-3. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/AlejandroSegura24](https://github.com/AlejandroSegura24/AlejandroSegura24)<br>
+1. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/Mi-Primer-SQL](https://github.com/AlejandroSegura24/Mi-Primer-SQL)<br>
+2. 📔 Created new repository [AlejandroSegura24/Mi-Primer-SQL](https://github.com/AlejandroSegura24/Mi-Primer-SQL)<br>
+3. 📔 Created new repository [AlejandroSegura24/miTercerRepo](https://github.com/AlejandroSegura24/miTercerRepo)<br>
 4. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/AlejandroSegura24](https://github.com/AlejandroSegura24/AlejandroSegura24)<br>
-5. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
+5. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/AlejandroSegura24](https://github.com/AlejandroSegura24/AlejandroSegura24)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 10th, 2025, 3:13:23 AM
+Last Updated: Saturday, May 10th, 2025, 1:05:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Contactame
