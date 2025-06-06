@@ -25,14 +25,14 @@ Bienvenido a mi GitHub. Soy un apasionado sobre la ciencia de datos orientada co
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/Mi-Primer-SQL](https://github.com/AlejandroSegura24/Mi-Primer-SQL)<br>
+1. 📔 Created new repository [AlejandroSegura24/practica-SQL](https://github.com/AlejandroSegura24/practica-SQL)<br>
 2. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/Mi-Primer-SQL](https://github.com/AlejandroSegura24/Mi-Primer-SQL)<br>
 3. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/Mi-Primer-SQL](https://github.com/AlejandroSegura24/Mi-Primer-SQL)<br>
 4. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/Mi-Primer-SQL](https://github.com/AlejandroSegura24/Mi-Primer-SQL)<br>
 5. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/Mi-Primer-SQL](https://github.com/AlejandroSegura24/Mi-Primer-SQL)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 5th, 2025, 1:06:23 PM
+Last Updated: Friday, June 6th, 2025, 1:03:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Contactame
