@@ -27,12 +27,9 @@ Bienvenido a mi GitHub. Soy un apasionado sobre la ciencia de datos orientada co
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/car-assignment-analysis](https://github.com/AlejandroSegura24/car-assignment-analysis)<br>
 2. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/car-assignment-analysis](https://github.com/AlejandroSegura24/car-assignment-analysis)<br>
-3. ⬆️ Pushed 2 commit(s) to [AlejandroSegura24/car-assignment-analysis](https://github.com/AlejandroSegura24/car-assignment-analysis)<br>
-4. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/car-assignment-analysis](https://github.com/AlejandroSegura24/car-assignment-analysis)<br>
-5. ⬆️ Pushed 1 commit(s) to [AlejandroSegura24/car-assignment-analysis](https://github.com/AlejandroSegura24/car-assignment-analysis)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 23rd, 2025, 2:25:57 AM
+Last Updated: Saturday, August 23rd, 2025, 12:22:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Contactame
