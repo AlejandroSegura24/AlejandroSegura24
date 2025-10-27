@@ -53,13 +53,13 @@ Me gusta aprender paso a paso, construir proyectos prácticos y compartir conoci
 <!-- Aquí puedes elegir qué estadísticas incluir -->
 <p align="center">
   <!-- Tarjeta de actividad general -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroSegura24&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub"/>
   
   <!-- Tarjeta de lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroSegura24&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
   
   <!-- Racha de contribuciones -->
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=false" alt="Racha de contribuciones"/>
+  <img src="https://streak-stats.demolab.com?user=AlejandroSegura24&theme=tokyonight&hide_border=false" alt="Racha de contribuciones"/>
 </p>
 
 ---
