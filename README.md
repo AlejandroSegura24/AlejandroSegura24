@@ -56,10 +56,10 @@ Me gusta aprender paso a paso, construir proyectos prácticos y compartir conoci
 
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
- <div>
-  <img src="https://github.com/AlejandroSegura24/AlejandroSegura24/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-  </div> | 
-  
+| <div align="center">
+  <img src="https://github.com/AlejandroSegura24/AlejandroSegura24/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>| 
+
 ## 🌐 Conéctate conmigo
 
 <p align="center">
