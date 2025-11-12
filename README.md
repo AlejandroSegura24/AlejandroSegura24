@@ -54,11 +54,9 @@ Me gusta aprender paso a paso, construir proyectos prácticos y compartir conoci
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlejandroSegura24&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Lenguajes mas usados"/>
 </p>
 
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| <div align="center">
+<div align="center">
   <img src="https://github.com/AlejandroSegura24/AlejandroSegura24/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>| 
+</div>
 
 ## 🌐 Conéctate conmigo
 
