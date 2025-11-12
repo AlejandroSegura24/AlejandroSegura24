@@ -1,18 +1,22 @@
 <!-- Encabezado principal -->
-<h1 align="center">👋 ¡Hola! Soy David Alejandro Segura</h1>
-<h3 align="center">📊 Data Scientist en formación | Apasionado por el análisis y la visualización de datos</h3>
+<h1 align="center">👋 ¡Hola! Soy Alejandro Segura</h1>
+<!--horizontal divider(gradiant)-->
+<h2 align="center">📊 Data Scientist en formación | Apasionado por el análisis y la visualización de datos</h3>
 
----
+<p align="center">
+<picture> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+</p>
 
-### 🧠 Sobre mí
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
+
 Soy un científico de datos en formación con interés en el análisis de datos, visualización y machine learning.  
 Me gusta aprender paso a paso, construir proyectos prácticos y compartir conocimiento con la comunidad.
 
-💡 Actualmente profundizo en Python, SQL y Machine Learning.  
+💡 Actualmente profundizo en Python, SQL, análisis de datot y Machine Learning.  
 🚀 Enfocado en fortalecer mis habilidades con proyectos de análisis de datos reales.  
 📘 Estudiante en Platzi.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🧰 Tecnologías y herramientas
 
@@ -36,34 +40,26 @@ Me gusta aprender paso a paso, construir proyectos prácticos y compartir conoci
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Estadísticas de GitHub
 
-### 🚧 Proyectos destacados
-| Proyecto | Descripción | Repositorio |
-|-----------|--------------|-------------|
-| 📈 Proyecto 1 | Espacio reservado para futuros proyectos | 🔗 [Ver](#) |
-| 🤖 Proyecto 2 | Espacio reservado para futuros proyectos | 🔗 [Ver](#) |
-
----
-
----
-
-### 📊 Estadísticas de GitHub
 <!-- Aquí puedes elegir qué estadísticas incluir -->
 <p align="center">
   <!-- Tarjeta de actividad general -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroSegura24&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroSegura24&theme=dark&show_icons=true&count_private=true" alt="Estadísticas de GitHub"/>
+</p>
+<p align="center">
   <!-- Tarjeta de lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroSegura24&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
-  
-  <!-- Racha de contribuciones -->
-  <img src="https://streak-stats.demolab.com?user=AlejandroSegura24&theme=tokyonight&hide_border=false" alt="Racha de contribuciones"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlejandroSegura24&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Lenguajes mas usados"/>
 </p>
 
----
-
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+ <div>
+  <img src="https://github.com/AlejandroSegura24/AlejandroSegura24/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  </div> | 
+  
 ## 🌐 Conéctate conmigo
 
 <p align="center">
@@ -74,3 +70,4 @@ Me gusta aprender paso a paso, construir proyectos prácticos y compartir conoci
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
