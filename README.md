@@ -58,6 +58,13 @@ Me gusta aprender paso a paso, construir proyectos prácticos y compartir conoci
   <img src="https://github.com/AlejandroSegura24/AlejandroSegura24/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
+## 📝 Actividad Reciente
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
 ## 🌐 Conéctate conmigo
 
 <p align="center">
@@ -68,7 +75,3 @@ Me gusta aprender paso a paso, construir proyectos prácticos y compartir conoci
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
