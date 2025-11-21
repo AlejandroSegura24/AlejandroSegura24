@@ -74,4 +74,3 @@ Me gusta aprender paso a paso, construir proyectos prácticos y compartir conoci
   <a href="www.linkedin.com/in/david-alejandro-segura-reina-049554390" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
