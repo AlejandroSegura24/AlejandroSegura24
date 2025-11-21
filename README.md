@@ -69,3 +69,6 @@ Me gusta aprender paso a paso, construir proyectos prácticos y compartir conoci
   </a>
 </p>
 
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
