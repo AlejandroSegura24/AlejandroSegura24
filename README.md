@@ -62,14 +62,14 @@ Me gusta aprender paso a paso, construir proyectos prácticos y compartir conoci
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Colombians-migration-data-analysis](https://github.com/AlejandroSegura24/Colombians-migration-data-analysis)<br>
-2. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/AlejandroSegura24](https://github.com/AlejandroSegura24/AlejandroSegura24)<br>
+2. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Colombians-migration-data-analysis](https://github.com/AlejandroSegura24/Colombians-migration-data-analysis)<br>
 3. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/AlejandroSegura24](https://github.com/AlejandroSegura24/AlejandroSegura24)<br>
 4. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/AlejandroSegura24](https://github.com/AlejandroSegura24/AlejandroSegura24)<br>
-5. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Colombians-migration-data-analysis](https://github.com/AlejandroSegura24/Colombians-migration-data-analysis)<br>
+5. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/AlejandroSegura24](https://github.com/AlejandroSegura24/AlejandroSegura24)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 24th, 2025, 12:43:21 PM
+Last Updated: Tuesday, November 25th, 2025, 1:41:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🌐 Conéctate conmigo
