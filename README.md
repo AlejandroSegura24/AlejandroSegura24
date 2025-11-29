@@ -65,11 +65,11 @@ Me gusta aprender paso a paso, construir proyectos prácticos y compartir conoci
 2. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Colombians-migration-data-analysis](https://github.com/AlejandroSegura24/Colombians-migration-data-analysis)<br>
 3. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Colombians-migration-data-analysis](https://github.com/AlejandroSegura24/Colombians-migration-data-analysis)<br>
 4. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Colombians-migration-data-analysis](https://github.com/AlejandroSegura24/Colombians-migration-data-analysis)<br>
-5. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/AlejandroSegura24](https://github.com/AlejandroSegura24/AlejandroSegura24)<br>
+5. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Colombians-migration-data-analysis](https://github.com/AlejandroSegura24/Colombians-migration-data-analysis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 28th, 2025, 12:42:15 PM
+Last Updated: Saturday, November 29th, 2025, 1:38:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🌐 Conéctate conmigo
