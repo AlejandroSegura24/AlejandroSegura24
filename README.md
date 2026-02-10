@@ -62,14 +62,14 @@ Me gusta aprender paso a paso, construir proyectos prácticos y compartir conoci
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Olist-Analytics-Project](https://github.com/AlejandroSegura24/Olist-Analytics-Project)<br>
-2. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Ecommerce-Business-Intelligence-Lab](https://github.com/AlejandroSegura24/Ecommerce-Business-Intelligence-Lab)<br>
-3. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Ecommerce-Business-Intelligence-Lab](https://github.com/AlejandroSegura24/Ecommerce-Business-Intelligence-Lab)<br>
+2. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Olist-Analytics-Project](https://github.com/AlejandroSegura24/Olist-Analytics-Project)<br>
+3. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Olist-Analytics-Project](https://github.com/AlejandroSegura24/Olist-Analytics-Project)<br>
 4. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Ecommerce-Business-Intelligence-Lab](https://github.com/AlejandroSegura24/Ecommerce-Business-Intelligence-Lab)<br>
 5. ⬆️ Pushed undefined commit(s) to [AlejandroSegura24/Ecommerce-Business-Intelligence-Lab](https://github.com/AlejandroSegura24/Ecommerce-Business-Intelligence-Lab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 9th, 2026, 1:11:55 PM
+Last Updated: Tuesday, February 10th, 2026, 2:32:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🌐 Conéctate conmigo
